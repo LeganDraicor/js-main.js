@@ -1,4 +1,4 @@
-* {
+{
     box-sizing: border-box;
     -webkit-tap-highlight-color: transparent;
 }
@@ -214,4 +214,5 @@ body.mobile .touch-controls {
 }
 #button-start-touch:active {
     background-color: #ccc;
+
 }
